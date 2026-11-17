@@ -48,7 +48,7 @@ Sans eux, tout le reste marche ; seule la synchronisation de la gamme avec Bitwi
 
 ## Les gestes
 
-L'**antisèche imprimable** (recto / verso A4) résume tous les gestes : voir `Antiseche-Move-Bitwig.pdf` dans les *Releases*.
+L'**antisèche imprimable** (recto / verso A4) résume tous les gestes : voir `Move-for-Bitwig-Cheatsheet-FR.pdf` dans les *Releases*.
 La référence complète est l'en-tête du script `AbletonMove.control.js`.
 
 En bref :
