@@ -26,7 +26,7 @@ Aucun utilitaire externe : le script passe lui-même la Move en mode contrôleur
    - macOS / Windows : `Documents/Bitwig Studio/Controller Scripts/Ableton Move/`
    - Linux : `~/Bitwig Studio/Controller Scripts/Ableton Move/`
 3. Dans Bitwig : **Réglages › Contrôleurs › Ajouter un contrôleur › Ableton › Move for Bitwig**.
-4. Choisir les ports **Ableton Move** en entrée et en sortie.
+4. Choisir les ports **Ableton Move Live Port** en entrée et en sortie.
 5. La notification « Ableton Move connectée » s'affiche et les LED s'allument.
 
 **Important : un seul fichier `.control.js`.** Ne gardez aucune copie de sauvegarde finissant par `.control.js` dans le dossier Controller Scripts (même dans un sous-dossier) : Bitwig les charge toutes et risque de prendre la mauvaise.
@@ -104,7 +104,7 @@ The Move workflow, inside Bitwig, without Live.
 **Install:**
 1. Download `AbletonMove.control.js` from *Releases*.
 2. Copy it to `Documents/Bitwig Studio/Controller Scripts/Ableton Move/` (Linux: `~/Bitwig Studio/...`).
-3. Bitwig: **Settings › Controllers › Add Controller › Ableton › Move for Bitwig**, ports **Ableton Move** in and out.
+3. Bitwig: **Settings › Controllers › Add Controller › Ableton › Move for Bitwig**, ports **Ableton Move Live Port** in and out.
 4. Keep **only one** `.control.js` file in the Controller Scripts folder (no backup copies ending in `.control.js`).
 
 **Scale sync with Bitwig (chords / scale mode):** the Bitwig API has no direct access to the project key, so the script uses two **project remote controls**, to create once per project (or in your template): device panel (**D**) › **PROJECT** tab › remote controls icon › **+** › click slot 2's mapping icon then the root note in the transport (the "C"), slot 3 arms itself: click the scale ("Major") › Esc.
