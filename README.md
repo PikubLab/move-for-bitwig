@@ -73,8 +73,8 @@ Ouvrez une *issue* sur ce dépôt avec : la version du script (ligne 3 du fichie
 
 ## Soutenir
 
-Le script est gratuit. Lien « offre-moi un café » ☕ : bientôt, annoncé sur Instagram.
-Suivre le projet : Instagram **[@pikublab](https://www.instagram.com/pikublab/)** · Ma musique : **[linktr.ee/pikub](https://linktr.ee/pikub)**
+Le script est gratuit. Lien « [offre-moi un café ](https://ko-fi.com/pikub)» ☕ 
+Suivre le projet : Instagram **[@pikublab](https://www.instagram.com/pikub_lab/)** · Ma musique : **[linktr.ee/pikub](https://linktr.ee/pikub)**
 
 ## Crédits
 
@@ -115,7 +115,7 @@ The Move workflow, inside Bitwig, without Live.
 
 **Bugs:** open an issue with the script version (line 3), your Bitwig version, what you did and any notification text.
 
-**Support:** free to use — coffee link coming soon ☕ · Instagram **[@pikublab](https://www.instagram.com/pikublab/)** · Music: **[linktr.ee/pikub](https://linktr.ee/pikub)**
+**Support:** free to use — [coffee link ](https://ko-fi.com/pikub) ☕ · Instagram **[@pikublab](https://www.instagram.com/pikub_lab/)** · Music: **[linktr.ee/pikub](https://linktr.ee/pikub)**
 
 **Credits:** movewire (Aureliano Bergese, MIT — SysEx wake-up and color palette), move-anything, DrivenByMoss, Ableton's Move manual.
 
